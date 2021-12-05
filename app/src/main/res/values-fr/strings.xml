@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Contrôle facile "</string>
+    <string name="email">e-mail</string>
+    <string name="password">le mot de passe</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="firstName">Prénom</string>
+    <string name="lastname">Nom de famille</string>
+    <string name="createaccount">Non enregistré? Cliquez ici</string>
+    <string name="loginbtn">"Connexion "</string>
+    <string name="signupbtn">S\'inscrire</string>
+    <string name="email_error_message">"Vous devez remplir le champ email "</string>
+    <string name="password_error_message">"Vous devez remplir le champ du mot de passe "</string>
+    <string name="first_name_field_error">Le prénom ne peut pas être vide</string>
+    <string name="email_field_error">Le champ de l\'e-mail ne peut pas être vide</string>
+    <string name="last_name_field_error">Le nom de famille ne peut pas être vide</string>
+    <string name="password_length_error">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="welcome_main_activity">Bonjour</string>
+    <string name="car_plate_hint">Écrivez le numéro de plaque d\'immatriculation ici</string>
+    <string name="check_car">Vérifier</string>
+    <string name="car_plate_field">vous devez remplir le numéro d\'immatriculation de la voiture</string>
+    <string name="car_dont_have_tag">Ce véhicule n\'appartient pas a une personne handicapée</string>
+    <string name="tagOne">Type de balise 1</string>
+    <string name="tagTwo">Type de balise 2</string>
+    <string name="tagThree">Type de balise 3</string>
+    <string name="tagFour">Type de balise 4</string>
+    <string name="zeroTag">pas d\'étiquette</string>
+</resources>

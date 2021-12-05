@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EasyCheck</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="firstName">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="createaccount">Not Registered? Click Here</string>
+    <string name="loginbtn">Login</string>
+    <string name="signupbtn">Sign Up</string>
+    <string name="email_error_message">You must fill the email field</string>
+    <string name="password_error_message">you must fill the password field</string>
+    <string name="first_name_field_error">First Name cannot be empty</string>
+    <string name="last_name_field_error">Last Name cannot be empty</string>
+    <string name="email_field_error">Email field cannot be empty</string>
+    <string name="password_length_error">Password must be at least 6 chars</string>
+
+    <string name="welcome_main_activity">Welcome</string>
+    <string name="car_plate_hint">Write car plate number here</string>
+    <string name="check_car">Check</string>
+    <string name="car_plate_field">You must support car plate number</string>
+    <string name="car_dont_have_tag">This vehicle is not for disabled people</string>
+    <string name="tagOne">Tag Type = 1</string>
+    <string name="tagTwo">Tag Type = 2</string>
+    <string name="tagThree">Tag Type = 3</string>
+    <string name="tagFour">Tag Type = 4</string>
+    <string name="zeroTag">don\'t have a tag</string>
+</resources>

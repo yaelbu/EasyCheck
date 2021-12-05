@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919330718267",
+    "firebase_url": "https://easy-check-cars-default-rtdb.firebaseio.com",
+    "project_id": "easy-check-cars",
+    "storage_bucket": "easy-check-cars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919330718267:android:7ea77244acfae57914921e",
+        "android_client_info": {
+          "package_name": "com.example.easycheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919330718267-ce51a1amfo65vrfd6mm6p3vk1vgjc35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvucTnSzqTjAokPb_d8kSAewzOSBQrA3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919330718267-ce51a1amfo65vrfd6mm6p3vk1vgjc35u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

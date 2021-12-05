@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"فحص سهل "</string>
+    <string name="email">ايميل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="firstName">الاسم الشخصي</string>
+    <string name="lastname">اسم العائلة</string>
+    <string name="createaccount">لا تملك لك حساب؟ اضغط هنا</string>
+    <string name="loginbtn">تسجيل الدخول</string>
+    <string name="signupbtn">اشتراك</string>
+    <string name="email_error_message">"يجب عليك ملء حقل البريد الإلكتروني "</string>
+    <string name="password_error_message">"يجب عليك ملء حقل كلمة المرور "</string>
+    <string name="first_name_field_error">يجب عليك ملء الاسم الشخصي</string>
+    <string name="last_name_field_error">يجب عليك ملء الاسم العائلة</string>
+    <string name="email_field_error">لا يمكن ترك حقل البريد الإلكتروني فارغًا</string>
+    <string name="password_length_error">غلى كلمة المرور ان تكون على الاقل مكونة من 6 خانات</string>
+    <string name="welcome_main_activity">مرحبا</string>
+    <string name="car_plate_hint">اكتب رقم لوحة السيارة هنا</string>
+    <string name="check_car">افحص</string>
+    <string name="car_plate_field">يجب عليك دعم رقم لوحة السيارة</string>
+    <string name="car_dont_have_tag">هذه السيارة ليست لذوي الاحتياجات الخاصة</string>
+    <string name="tagOne">"نوع البطاقة 1 "</string>
+    <string name="tagTwo">"نوع البطاقة 2 "</string>
+    <string name="tagThree">"نوع البطاقة 3 "</string>
+    <string name="tagFour">"نوع البطاقة 4 "</string>
+    <string name="zeroTag">ليس لديه بطاقة</string>
+</resources>

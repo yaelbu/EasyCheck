@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"בדיקה קלה "</string>
+    <string name="email">אי-מייל</string>
+    <string name="password">סיסמה</string>
+    <string name="firstName">שם פרטי</string>
+    <string name="username">שם משתמש</string>
+    <string name="lastname">שם משפחה</string>
+    <string name="createaccount">אין לך חשבון? תלחץ כאן</string>
+    <string name="loginbtn">התחבר</string>
+    <string name="signupbtn">הירשם</string>
+    <string name="email_error_message">"עליך למלא את שדה הדוא\"ל "</string>
+    <string name="password_error_message">עליך למלא את שדה הסיסמה</string>
+    <string name="first_name_field_error">"שם פרטי לא יכול להיות ריק "</string>
+    <string name="last_name_field_error">"שם משפחה לא יכול להיות ריק "</string>
+    <string name="email_field_error">שדה דוא\"ל לא יכול להיות ריק</string>
+    <string name="password_length_error">הסיסמה חייבת להיות לפחות 6 תווים</string>
+    <string name="welcome_main_activity">שלום</string>
+    <string name="car_plate_hint">כתוב כאן מספר לוחית רכב</string>
+    <string name="check_car">בדוק</string>
+    <string name="car_plate_field">חייב לספק את ספר לוחית הרכב</string>
+    <string name="car_dont_have_tag">הרכב הזה לא לאנשים נכים</string>
+    <string name="tagOne">סוג תג 1</string>
+    <string name="tagTwo">סוג תג 2</string>
+    <string name="tagThree">סוג תג 3</string>
+    <string name="tagFour">סוג תג 4</string>
+    <string name="zeroTag">אין לו תג</string>
+</resources>
